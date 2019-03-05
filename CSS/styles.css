@@ -5,5 +5,12 @@
   filter:alpha(opacity(opacity=60));
 }
 .container{
-  
+margin-top: 200px;
+margin-left: 32.5%;
+}
+body{
+  background-image:url('/home/naomi/Documents/Kitty/pig-dice/image/pig-frame.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
