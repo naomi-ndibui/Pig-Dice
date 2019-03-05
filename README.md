@@ -12,3 +12,9 @@ There should be no problems while when loading and running the project.
 * CSS: Bootstrap
 * Scripts: JavaScript, JQuery
 # BDD
+I n the game one is encouraged to play as many times as possible and get their final score.
+## Support and contact details
+For assistance contact naomi.ndibui@gmail.com
+
+### License
+GNU GPLv3, Copyright (c) 2019
