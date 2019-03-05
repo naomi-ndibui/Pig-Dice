@@ -4,7 +4,7 @@
 ## Description
 This project shows that as a user, you'll see the pig dice game, in which you are supposed to play with another person. The first person/player is required to roll the dice by clicking the roll button, if the player rolls a one, he/she has to pass the mouse to the next player. When the player clicks the hold button it should display the final score. If any player gets a final score of 100 points,he/she is the winner and the game immediately resets its self.Published on 5th March,2019.
 ## Setup/Installation Requirements
-You would need the following to access the website:Smart phone/PC/laptop/Desktop/Tablet or any PDA, Internet connectivity (either wireless or ethernet), and a web browser(Chrome is most recommendable).You can then access the poject through  https://naomi-ndibui.github.io/pig-dice/
+You would need the following to access the website:Smart phone/PC/laptop/Desktop/Tablet or any PDA, Internet connectivity (either wireless or ethernet), and a web browser(Chrome is most recommendable).You can then access the poject through   https://naomi-ndibui.github.io/Pig-Dice/
 ## Known Bugs
 There should be no problems while when loading and running the project.
 ## Technologies Used
